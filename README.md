@@ -1,2 +1,2 @@
-# FYP-Project
-Final year project repository.
+# Project: Commeatus
+Project repository for my final year.
